@@ -13,7 +13,7 @@ ___
 This project leverages Solidity and the RemixIDE:
 
 
-*[RemixIDE](https://remix-project.org/) - a powerful toolset for developing, deploying, debugging, and testing Ethereum and EVM-compatible smart contracts.
+* [RemixIDE](https://remix-project.org/) - a powerful toolset for developing, deploying, debugging, and testing Ethereum and EVM-compatible smart contracts.
 ___
 
 ## Usage
